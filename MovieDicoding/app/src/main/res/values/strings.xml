@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SIMAX - INFO</string>
+    <string name="popularity">Popularity</string>
+    <string name="popularity2">Popularity : </string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="separator">:</string>
+    <string name="error">Error</string>
+    <string name="try_again">Try Again!</string>
+    <string name="error_msg_no_internet">Connection is not exists</string>
+    <string name="error_msg_timeout">The server took too long to respond</string>
+    <string name="error_msg_not_have_data">Data not found</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
